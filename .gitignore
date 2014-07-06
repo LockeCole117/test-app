@@ -14,3 +14,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+config/env.production.yml
+config/database.yml
+config/database.pg.yml
